@@ -1,0 +1,21 @@
+C:\Users\emrea\source\repos\empmakros2\empmakros2\bin\Debug\empmakros2.exe.config
+C:\Users\emrea\source\repos\empmakros2\empmakros2\bin\Debug\empmakros2.exe
+C:\Users\emrea\source\repos\empmakros2\empmakros2\bin\Debug\empmakros2.pdb
+C:\Users\emrea\source\repos\empmakros2\empmakros2\obj\Debug\empmakros2.csproj.AssemblyReference.cache
+C:\Users\emrea\source\repos\empmakros2\empmakros2\obj\Debug\empmakros2.Form1.resources
+C:\Users\emrea\source\repos\empmakros2\empmakros2\obj\Debug\empmakros2.Properties.Resources.resources
+C:\Users\emrea\source\repos\empmakros2\empmakros2\obj\Debug\empmakros2.csproj.GenerateResource.cache
+C:\Users\emrea\source\repos\empmakros2\empmakros2\obj\Debug\empmakros2.csproj.CoreCompileInputs.cache
+C:\Users\emrea\source\repos\empmakros2\empmakros2\obj\Debug\empmakros2.exe
+C:\Users\emrea\source\repos\empmakros2\empmakros2\obj\Debug\empmakros2.pdb
+D:\emreaknt\Empero\empmakros2 bu çok önemli yedek\empmakros2\bin\Debug\empmakros2.exe.config
+D:\emreaknt\Empero\empmakros2 bu çok önemli yedek\empmakros2\bin\Debug\empmakros2.exe
+D:\emreaknt\Empero\empmakros2 bu çok önemli yedek\empmakros2\bin\Debug\empmakros2.pdb
+D:\emreaknt\Empero\empmakros2 bu çok önemli yedek\empmakros2\obj\Debug\empmakros2.csproj.AssemblyReference.cache
+D:\emreaknt\Empero\empmakros2 bu çok önemli yedek\empmakros2\obj\Debug\empmakros2.csproj.SuggestedBindingRedirects.cache
+D:\emreaknt\Empero\empmakros2 bu çok önemli yedek\empmakros2\obj\Debug\empmakros2.Form1.resources
+D:\emreaknt\Empero\empmakros2 bu çok önemli yedek\empmakros2\obj\Debug\empmakros2.Properties.Resources.resources
+D:\emreaknt\Empero\empmakros2 bu çok önemli yedek\empmakros2\obj\Debug\empmakros2.csproj.GenerateResource.cache
+D:\emreaknt\Empero\empmakros2 bu çok önemli yedek\empmakros2\obj\Debug\empmakros2.csproj.CoreCompileInputs.cache
+D:\emreaknt\Empero\empmakros2 bu çok önemli yedek\empmakros2\obj\Debug\empmakros2.exe
+D:\emreaknt\Empero\empmakros2 bu çok önemli yedek\empmakros2\obj\Debug\empmakros2.pdb

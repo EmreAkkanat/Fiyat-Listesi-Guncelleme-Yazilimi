@@ -1,0 +1,11 @@
+D:\emreaknt\GitHub\Fiyat-Listesi-Guncelleme-Yazilimi\Fiyat-Listesi-Guncelleme\bin\Debug\empmakros2.exe.config
+D:\emreaknt\GitHub\Fiyat-Listesi-Guncelleme-Yazilimi\Fiyat-Listesi-Guncelleme\bin\Debug\empmakros2.exe
+D:\emreaknt\GitHub\Fiyat-Listesi-Guncelleme-Yazilimi\Fiyat-Listesi-Guncelleme\bin\Debug\empmakros2.pdb
+D:\emreaknt\GitHub\Fiyat-Listesi-Guncelleme-Yazilimi\Fiyat-Listesi-Guncelleme\obj\Debug\Fiyat-Listesi-Guncelleme.csproj.AssemblyReference.cache
+D:\emreaknt\GitHub\Fiyat-Listesi-Guncelleme-Yazilimi\Fiyat-Listesi-Guncelleme\obj\Debug\Fiyat-Listesi-Guncelleme.csproj.SuggestedBindingRedirects.cache
+D:\emreaknt\GitHub\Fiyat-Listesi-Guncelleme-Yazilimi\Fiyat-Listesi-Guncelleme\obj\Debug\empmakros2.Form1.resources
+D:\emreaknt\GitHub\Fiyat-Listesi-Guncelleme-Yazilimi\Fiyat-Listesi-Guncelleme\obj\Debug\empmakros2.Properties.Resources.resources
+D:\emreaknt\GitHub\Fiyat-Listesi-Guncelleme-Yazilimi\Fiyat-Listesi-Guncelleme\obj\Debug\Fiyat-Listesi-Guncelleme.csproj.GenerateResource.cache
+D:\emreaknt\GitHub\Fiyat-Listesi-Guncelleme-Yazilimi\Fiyat-Listesi-Guncelleme\obj\Debug\Fiyat-Listesi-Guncelleme.csproj.CoreCompileInputs.cache
+D:\emreaknt\GitHub\Fiyat-Listesi-Guncelleme-Yazilimi\Fiyat-Listesi-Guncelleme\obj\Debug\empmakros2.exe
+D:\emreaknt\GitHub\Fiyat-Listesi-Guncelleme-Yazilimi\Fiyat-Listesi-Guncelleme\obj\Debug\empmakros2.pdb
